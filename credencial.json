@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "registro-apostas-sam",
+  "private_key_id": "b9c57a4c4af0df0cdcb7269dd99fd1ef218bcf50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKc+xIoTbY0+7B\nrBJ/pqsvcLJjDw+KFhDOlQh/7CVPJTWYaGsMLKCdM3IGfyEN9OW5vxNVCe0T3k76\nQdd6J/RY81pxNtZMP1qSGNpaQmx30jsvDN5z6M2u0BGwAFzsV5zVccFGN5pKdlGt\nQvt5vD1RDjaKYEzyiijg2SVP/wTohM7AFqgqFNMImA7glXqXMBTsc87n+6Zhn+5e\nVosSqvVqUnmGK82vTXQAqECqnSF5+T1g1sNlAmmNr9/KWlVVGz1c9bYcbKkGKOVf\nZ7ns2xMJN3qjxZf12aPhlLrh7NEfIWjiTnpUeO4VbfsMwhp+Rjg+1KiyuTG0/jrr\no8PMa2M1AgMBAAECggEAV7Fh2k32h3I5e6uQsblcciajJnRaG0qWih0U+vArcv5f\nmj40jCfyhFVJ4VWE2FpJfa0t7wpnJlGHrTAC6XdQCI2UkfCaX5mbnifkwO7/s+Ec\n4LL20oc3PK8E0lM97OPAW9YzzTn9e56Hn4ChlCf8+VSqPEMdYXuF3GtClcWVdy92\naFZjTqYtaXIiRz8zk50QKkEetOL6yRnrIHcyU3pHPqlK46749sCuag8Z7LmZZV34\nvcTxhvWBD6Tvanis1iOe9NrGJwGSwa1J2RManaS9wfLI9VwnOyPleGuh9HTD5vOI\nSYFrIUSQRO5kkUu5yyRX0hg4jkRmEWTyaeC//w00OwKBgQDogQY5461hAttkoVNc\nGZstTeXw+1j/OVCaVnrccYX2z/eYwVny9bDRGcX2kekvrJaImfvk/Soe7+D4GTer\nk7aJETVzbys5FwFx/aF7K3QothtmDON1HwDLrKd1cjG75iMNKFqxF+349/dX5bAD\nmd9am1BqQkjXuQJV/tY0sfajawKBgQDe6XZPmGMpSUOE2/zbh1aCxtAM/VEsXMZr\nKb2U7lMXw4yTd16TReHCGikTqRvZdn5Jcjyk89dDYxrwsoKEiiPgjDbpMna4+UIo\nTtB6mf+4/oLNKRwuErZWAp+KjxyUD0I1PvnKdz1UadX7DxR6eIIzKFIQ67Ky5Snk\nfmS5qnRb3wKBgQCdd5Uh6+NnCqpQUzrD68u/OTz8ox65bLX8cYmwd2qFqIBGgt1K\nwb/JPq1mu5e05Cznw3JoulWmskwpe9rKZ7Z+yprq3WXmuoAOFfsiEmIPmJah3STI\nFAFT8FFSJ88rNUiUBrq1qkFQF5D7hOJa7gHpubsS3GW9RN4iJAArnEQwlQKBgD8F\n4LZWTkrg9N7+V3o1xGbLEQ1rHWUegdbQgVI3I3UHi5ox2KJo0pBPVyfA2yfbkY7w\nZmb4rfbWcUp2HeKdL9GPswKxitF3X5YH2nefTKagBpk8s0PvdG/S5AqHtbvCqKRn\nPrZYihVwqtgFhnOt2JngH3u7N9XOZs68UXwQzj8fAoGBAIFCgmvQvefT/ZigF8bN\n8vrxzdrs2+CGZhODGp8j0M2USiISUlr3Vv0t9c4E+IFuBbt5Jzmisrk50fGq9Sib\nxgYXCzaeVGK/UxwfPoxXktfOGTksIqQbHiJroql/sJfnOs2sLRdYyNJepBYWBvVM\n/LcezrnRQ7gB+WT0UMc66wTn\n-----END PRIVATE KEY-----\n",
+  "client_email": "registrador-sam@registro-apostas-sam.iam.gserviceaccount.com",
+  "client_id": "106247920159468262649",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/registrador-sam%40registro-apostas-sam.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
