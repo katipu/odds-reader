@@ -1,2 +1,0 @@
-Remover index.js duplicado
-
