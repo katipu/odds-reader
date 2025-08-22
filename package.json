@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
@@ -11,4 +11,5 @@
     "googleapis": "^105.0.0"
   }
 }
+
 
