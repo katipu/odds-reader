@@ -1,18 +1,21 @@
 const express = require('express');
 const cors = require('cors');
 const { google } = require('googleapis');
-const keys = require('./credencial.json');
-const app = express();
 
+const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Autenticação com Google Sheets
+// Autenticação com Google Sheets via variáveis de ambiente
 const auth = new google.auth.GoogleAuth({
-  credentials: keys,
+  credentials: {
+    client_email: process.env.GOOGLE_CLIENT_EMAIL,
+    private_key: process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n')
+  },
   scopes: ['https://www.googleapis.com/auth/spreadsheets']
 });
-const SPREADSHEET_ID = '1IGWSv6lJUhx-yvOzq5XsjTcPOPdsfJStAbGl1BRZxRU';
+
+const SPREADSHEET_ID = process.env.SPREADSHEET_ID;
 
 // Endpoint principal de odds
 app.get('/odds', async (req, res) => {
